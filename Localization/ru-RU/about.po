@@ -6,9 +6,9 @@ msgstr ""
 "Source-Language: en-US\n"
 "Source-Version: 1.0\n"
 "Source-Last-Modified: 20200705\n"
-"Target-Language: \n by ru-RU
-"Target-Version: \n by the Source-Version value"
-"Target-Last-Modified: \n by date of last changes, if today 20200813
+"Target-Language: ru-RU\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200813\n"
 
 msgid "About"
 msgstr "О нас"
